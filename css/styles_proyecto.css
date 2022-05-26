@@ -141,7 +141,7 @@ a{
                         2fr         1fr;
 }
 .producto-dia{
-    border: 2px solid ;
+    /* border: 2px solid ; */
     border-bottom-left-radius:40px;
     border-bottom-right-radius: 40px;
     grid-area: producto-dia;
@@ -157,7 +157,7 @@ a{
     grid-area: titulo_productos_dia;
 } */
 .titulo_dia{
-    border: 2px solid;
+    /* border: 2px solid; */
     font-weight: 900;
     color: black;
     font-family: 'Times New Roman', Times, serif;
@@ -174,14 +174,14 @@ a{
     width: 80%;
     height: 95%;
     margin: 15px;
-    border: 2px solid;
+ /*    border: 2px solid; */
 }
 
 .img-lulo{
     padding-top: 49px;
     width: 100%;
     height: 55%;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 .compra_1{
     background-color: white;
@@ -194,13 +194,13 @@ a{
     width: 80%;
     height: 95%;
     margin: 15px;
-    border: 2px solid;
+    /* border: 2px solid; */
 }
 .img-yuca{
     padding-top: 49px;
     width: 100%;
     height: 55%;
-    border: 2px solid blue;
+   /*  border: 2px solid blue; */
 }
 .compra_2{
     background-color: white;
@@ -212,13 +212,13 @@ a{
     width: 80%;
     height: 95%;
     margin: 15px;
-    border: 2px solid;
+    /* border: 2px solid; */
 }
 .img-cafe{
     padding-top: 49px;
     width: 100%;
-    height: 100%;
-    border: 2px solid blue;
+    height: 55%;
+    /* border: 2px solid blue; */
 }
 .compra_3{
     position: relative;
